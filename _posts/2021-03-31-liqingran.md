@@ -13,15 +13,24 @@ The choice of discount rate has a significant impact on net benefit estimates wh
 
 This paper is recently accepted by the Journal of Environmental Economics and Management (JEEM). 
 
+----------
+
 ## Qingran Li
 
-### Ph.D. candidate at Duke University
-
-### Energy Data Analytics PhD Fellow and Energy Fellow in the Duke University Energy Initiative
+*Ph.D. candiate at Duke University, Energy Data Analytics PhD Fellow and Energy Fellow in the Duke University Energy Initiative*
 
 [www.qingranli.com](https://www.qingranli.com/)
 
-#### Research Interest: 
-Environmental and Energy Economics
+**Research Interest:** Environmental and Energy Economics
 
 Qingran will join Clarkson University as Assistant Professor in Environmental Economics and Sustainability starting Fall 2021. Her work has been published in Journal of Environmental Economics and Management, Journal of the Association of Environmental and Resource Economists, Marine Resource Economics, and Nature Energy. Qingran received a bachelor's degree in applied economics from Hong Kong Baptist University in 2013 and a master's degree in management science and engineering from Stanford University in 2015.
+
+-----------
+
+##  Join the Meeting
+
+**Date and time:** March 31, 2021 8:00 p.m. (UTC-8)
+
+**Tencent Meeting ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
+
+![meeting link](/assets/img/2021-03-31-liqingran/link.jpeg)
