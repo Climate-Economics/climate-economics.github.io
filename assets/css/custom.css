@@ -1,0 +1,8 @@
+.event-list .article-list {
+    float: none;
+    margin: 0 auto;
+}
+
+.author-card .avatar {
+    border-radius: 0;
+}
