@@ -6,3 +6,17 @@
 .author-card .avatar {
     border-radius: 0;
 }
+
+.logo-in-header {
+    width: 190px;
+    margin-top: 90px
+}
+
+.middle-align {
+    vertical-align:middle;
+}
+
+.logo-text {
+    font-size: xx-large;
+    margin-top: 8px;
+}
