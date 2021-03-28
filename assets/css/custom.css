@@ -20,3 +20,7 @@
     font-size: xx-large;
     margin-top: 8px;
 }
+
+.tags-list li .tag-post {
+    text-align: left;
+}
