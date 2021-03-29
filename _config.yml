@@ -17,9 +17,9 @@ baseurl: ''
 # Navigation links
 nav:
   home: '/'
-  about: '/about.html'
   events: '/events.html'
   give a talk: '/give-a-talk.html'
+  about: '/about.html'
 
 # Footer
 footer:
