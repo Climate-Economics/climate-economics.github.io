@@ -2,8 +2,8 @@
 layout: post
 title: '[March 31, 2021] Use of the Consumption Discount Rate for Public Policy Over the Distant Future'
 subtitle:  Qingran Li, Ph.D. candidate at Duke University 
-date: 2021-03-27
-tags: event upcoming
+date: 2021-03-31
+tags: event past
 cover: 'assets/img/2021-03-31-liqingran/cover.png'
 ---
 
@@ -27,10 +27,4 @@ Qingran will join Clarkson University as Assistant Professor in Environmental Ec
 
 -----------
 
-##  Join the Meeting
-
-**Date and time:** March 31, 2021 8:00 p.m. (UTC-8)
-
-**Tencent Meeting ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
-![meeting link](/assets/img/2021-03-31-liqingran/link.jpeg)
+<iframe style="width: 100%;height: 500px;" src="//player.bilibili.com/player.html?aid=502443485&bvid=BV1vK411w7bd&cid=317867090&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
