@@ -41,6 +41,13 @@ layout: default
         </li>
 
         <li>
+            <h3>论坛执委会成员</h3><br>
+            {% for member in site.committee-members %}
+            <img src="assets/img/about/members/{{ member }}.png"  alt="logo" class="committee-member-img">
+            {% endfor %}
+        </li>
+
+        <li>
             <p>如果想要订阅论坛活动信息，请发邮件至<a href="mailto:climateeconomics+subscribe@googlegroups.com">climateeconomics+subscribe@googlegroups.com</a></p>
             <br>
             <p>To subscribe to our mailing list, please send an email to <a href="mailto:climateeconomics+subscribe@googlegroups.com">climateeconomics+subscribe@googlegroups.com</a></p>

@@ -85,3 +85,10 @@ permalink: /:year/:month/:day/:title.html
 
 # Plugins
 plugins: [jekyll-paginate]
+
+committee-members: 
+  - denghui
+  - huanglei
+  - huchuanye
+  - jiangxueting
+

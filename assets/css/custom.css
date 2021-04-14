@@ -26,3 +26,7 @@
 .tags-list li .tag-post {
     text-align: left;
 }
+
+.committee-member-img {
+    max-width: 100%;
+}

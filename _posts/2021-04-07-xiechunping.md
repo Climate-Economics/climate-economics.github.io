@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[2021年4月7日] 电动汽车退役电池的储能应用经济性分析'
-subtitle:  谢春萍, 伦敦政治经济学院（LSE）格兰瑟姆气候变化与环境研究所政策研究员 
+subtitle:  谢春萍博士, 伦敦政治经济学院（LSE）格兰瑟姆气候变化与环境研究所政策研究员 
 date: 2021-04-07
 tags: 报告 往期
 cover: 'assets/img/2021-04-07-xiechunping/cover.png'
@@ -21,7 +21,7 @@ Wu, W. , et al. "Does energy storage provide a profitable second life for electr
 
 *伦敦政治经济学院（LSE）格兰瑟姆气候变化与环境研究所政策研究员*
 
-谢春萍，期刊《Energy Storage and Saving》编委会成员。在著名的《斯特恩报告》作者Nicholas Stern教授的团队中领导关于中国能源及气候变化的经济和政策研究。研究方向：能源、环境经济学，能源与气候政策，能源系统的技术经济分析。
+谢春萍博士是期刊《Energy Storage and Saving》编委会成员。在著名的《斯特恩报告》作者Nicholas Stern教授的团队中领导关于中国能源及气候变化的经济和政策研究。研究方向：能源、环境经济学，能源与气候政策，能源系统的技术经济分析。
 
 -----------
 
