@@ -1,31 +1,27 @@
 ---
 layout: post
-title: '[April 7, 2021] Does energy storage provide a profitable second life for electric vehicle batteries?'
-subtitle:  Dr. Chunping Xie, Policy Fellow at the Grantham Research Institute 
+title: '[2021年4月7日] 电动汽车退役电池的储能应用经济性分析'
+subtitle:  谢春萍, 伦敦政治经济学院（LSE）格兰瑟姆气候变化与环境研究所政策研究员 
 date: 2021-04-07
 tags: 报告 往期
 cover: 'assets/img/2021-04-07-xiechunping/cover.png'
 ---
 
-# Does energy storage provide a profitable second life for electric vehicle batteries?
+# 电动汽车退役电池的储能应用经济性分析
 
-Electric vehicles (EVs) are increasingly being seen as part of the solution to address environmental issues related to fossil fuel use. At the forefront of the EV revolution is China where EV sales have witnessed a dramatic increase. A direct consequence of a larger number of EVs on the roads is the growth in retired batteries once they have reached the end of their useful life inside an EV. This increasing stockpile of retired batteries raises the question of whether and how they can be disposed of, reused, repurposed or recycled. In this paper we investigate under which circumstances the use of second life batteries in stationary energy storage systems in China can be profitable using an operational optimization model. Our results show that an EV battery could achieve a second life value of 785 CNY/kWh (116 USD/kWh) if it is purchased with a remaining capacity of 80% and being abandoned when the capacity reaches 50%. Profit margins for energy storage firms are reduced if the acquisition costs of second life batteries are considered. The price range for second life batteries is assumed to range between a lower limit of the ‘Willing to sell’ price from the perspective of EV owners and an upper limit being the ‘Market evaluation’ price based on battery condition and the market price for a new EV battery. It's found that when the remaining capacity in retirement is below 87%, the application of retired battery energy storage can achieve pareto improvement from the perspective of social welfare. In addition, it's estimated that the optimal remaining capacity in retirement would be 77%. Our results suggest that EV adoption rates can be improved if a second life market can be successfully established.
+在应对全球气候变暖背景下，电动汽车已经越来越被视为交通行业实现低碳转型的重要路径之一。中国是全球最早开始大规模推广电动汽车的国家之一，随着一系列大规模补贴政策的出台，电动汽车销量大幅增长。大量的电动汽车在路上行驶的一个直接后果是，当它们达到使用寿命时，报废电池的数量会增加。越来越多的废弃电池引发了进一步的问题：这些电池是否可以以及如何能够被处理、回收或者再利用？基于此本文研究了中国电动汽车废弃电池运用于储能系统的经济可行性，并分析了在何种情况下这种二次利用能够实现盈利。
 
-Full paper published at 
+研究结果表明，电动汽车旧电池在剩余容量为80%时回收利用于储能系统，并在剩余容量达到50%时报废，可实现785元/千瓦时(116美元/千瓦时)的利用价值（此时旧电池成本假设为零）。如果考虑到旧电池的获取成本，这一收益就会降低。由于旧电池市场尚未形成，本文进一步对旧电池的估价进行了探讨，并给出了一个合理估价区间，即电动汽车用户”willing to sell”价格的下限和基于电池状况的“市场评估”价格之间。研究发现，在旧电池剩余容量低于87%的情况下将其利用于储能系统，从社会福利的角度出发能够实现帕累托改进。此外，我们估计，旧电池退役用于储能系统时的最优退役剩余容量为77%。
 
 Wu, W. , et al. "Does energy storage provide a profitable second life for electric vehicle batteries?." *Energy Economics* 92(2020):105010.
 
 ----------
 
-## Dr. Chunping Xie 
+## 谢春萍
 
-*Policy Fellow at the Grantham Research Institute*
+*伦敦政治经济学院（LSE）格兰瑟姆气候变化与环境研究所政策研究员*
 
-PhD in Economics, Xiamen University, 2015
-
-**Research Interest:** Growth and Innovation, Policy Design and Evaluation, Sustainable Development, Energy Transition towards a Low-carbon Future
-
-Dr. Xie is an energy economist with experience in China’s energy policy and development, the global energy markets and energy security, the economics of energy storage, and sustainable transition. Before joining the Grantham Institute she worked at Energy Systems and Policy Analysis Group, Birmingham Centre for Energy Storage (BCES), with an especial emphasis on developing techno-economic models for analysing the value of energy storage. Before that she worked at King’s College London, looking at the global natural gas market and energy security. She holds an MSc and a PhD in Energy Economics, and has experience of working in multi-disciplinary teams.
+谢春萍，期刊《Energy Storage and Saving》编委会成员。在著名的《斯特恩报告》作者Nicholas Stern教授的团队中领导关于中国能源及气候变化的经济和政策研究。研究方向：能源、环境经济学，能源与气候政策，能源系统的技术经济分析。
 
 -----------
 
