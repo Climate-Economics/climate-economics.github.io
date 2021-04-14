@@ -3,7 +3,7 @@ layout: post
 title: '[March 31, 2021] Use of the Consumption Discount Rate for Public Policy Over the Distant Future'
 subtitle:  Qingran Li, Ph.D. candidate at Duke University 
 date: 2021-03-31
-tags: event past
+tags: 报告 往期
 cover: 'assets/img/2021-03-31-liqingran/cover.png'
 ---
 

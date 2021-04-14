@@ -8,17 +8,19 @@
 }
 
 .logo-in-header {
-    width: 190px;
+    width: 150px;
     margin-top: 90px
 }
 
 .middle-align {
-    vertical-align:middle;
+    vertical-align: middle;
 }
 
 .logo-text {
-    font-size: xx-large;
+    font-size: 48px;
     margin-top: 8px;
+    font-family: SimSun;
+    font-weight: bold;
 }
 
 .tags-list li .tag-post {

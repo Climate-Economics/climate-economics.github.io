@@ -3,7 +3,7 @@ layout: post
 title: '[April 7, 2021] Does energy storage provide a profitable second life for electric vehicle batteries?'
 subtitle:  Dr. Chunping Xie, Policy Fellow at the Grantham Research Institute 
 date: 2021-04-07
-tags: event past
+tags: 报告 往期
 cover: 'assets/img/2021-04-07-xiechunping/cover.png'
 ---
 

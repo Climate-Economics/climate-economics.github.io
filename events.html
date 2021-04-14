@@ -6,13 +6,13 @@ layout: default
 {% include header.html %}
 
 <div class="g-banner tags-banner {{ site.postPatterns | prepend: 'post-pattern-' }} {{ site.theme-color | prepend: 'bgcolor-' }}" data-theme="{{ site.theme-color }}">
-    <h2>Events</h2>
+    <h2>论坛报告</h2>
 </div>
 
 <main class="home-content event-list">
     <div class="article-list">
         {% for tag in site.tags %}
-        {% if tag[0] == "event" %}
+        {% if tag[0] == "报告" %}
         {% for post in tag[1] %}
         <article class="article-item">
             {% if post.cover %}

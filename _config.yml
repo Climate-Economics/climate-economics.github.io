@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'Climate Change Economics'
+title: '气候变化经济学论坛'
 description: ''
 keyword: 'climate, change, climate change, economics'
 url: 'https://www.cceforum.org' # your host
@@ -16,10 +16,10 @@ baseurl: ''
 
 # Navigation links
 nav:
-  home: '/'
-  events: '/events.html'
-  give a talk: '/give-a-talk.html'
-  about: '/about.html'
+  主页: '/'
+  报告: '/events.html'
+  报名入口: '/give-a-talk.html'
+  关于论坛: '/about.html'
 
 # Footer
 footer:
