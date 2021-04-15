@@ -3,7 +3,7 @@ layout: post
 title: '[2021年4月7日] 电动汽车退役电池的储能应用经济性分析'
 subtitle:  谢春萍博士, 伦敦政治经济学院（LSE）格兰瑟姆气候变化与环境研究所政策研究员 
 date: 2021-04-07
-tags: 报告 往期
+tags: 报告 往期 中文
 cover: 'assets/img/2021-04-07-xiechunping/cover.png'
 ---
 
