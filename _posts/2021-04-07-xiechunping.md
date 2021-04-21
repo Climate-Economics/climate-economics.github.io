@@ -13,7 +13,9 @@ cover: 'assets/img/2021-04-07-xiechunping/cover.png'
 
 研究结果表明，电动汽车旧电池在剩余容量为80%时回收利用于储能系统，并在剩余容量达到50%时报废，可实现785元/千瓦时(116美元/千瓦时)的利用价值（此时旧电池成本假设为零）。如果考虑到旧电池的获取成本，这一收益就会降低。由于旧电池市场尚未形成，本文进一步对旧电池的估价进行了探讨，并给出了一个合理估价区间，即电动汽车用户”willing to sell”价格的下限和基于电池状况的“市场评估”价格之间。研究发现，在旧电池剩余容量低于87%的情况下将其利用于储能系统，从社会福利的角度出发能够实现帕累托改进。此外，我们估计，旧电池退役用于储能系统时的最优退役剩余容量为77%。
 
-Wu, W. , et al. "Does energy storage provide a profitable second life for electric vehicle batteries?." *Energy Economics* 92(2020):105010.
+本次报告内容全文发表在Energy Economics
+
+Wu, W. , et al. "Does energy storage provide a profitable second life for electric vehicle batteries?." *Energy Economics* 92(2020):105010. [https://doi.org/10.1016/j.eneco.2020.105010](https://doi.org/10.1016/j.eneco.2020.105010)
 
 ----------
 
