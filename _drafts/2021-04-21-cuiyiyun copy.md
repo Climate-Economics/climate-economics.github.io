@@ -24,5 +24,10 @@ Cui, R.Y., Hultman, N., Cui, D. et al. A plant-by-plant strategy for high-ambiti
 崔宜筠博士，现任马里兰大学公共政策学院助理研究教授，全球可持续发展中心中国项目联席主任。主持全球煤炭转型研究项目，探索气候目标下煤炭退出策略，就该课题在Nature Communications、PNAS等核心期刊发表多篇文章，并担任IPCC AR6贡献作者。主要研究方向还包括：全球综合评估模型利用与开发，全球及中国、美国、印度等主要国家和地区气候政策以及低碳发展、能源转型路径等。
 
 -----------
+##  参与方式
 
-<iframe style="width: 100%;height: 500px;" src="//player.bilibili.com/player.html?aid=760206703&bvid=BV1p64y1i7JK&cid=327484295&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+ **时间：** 2021年4月21日晚上8:00（北京时间）
+
+ **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
+
+ ![meeting link](/assets/img/2021-04-21-cuiyiyun/link.jpeg)
