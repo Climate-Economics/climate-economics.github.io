@@ -2,8 +2,8 @@
 layout: post
 title: '[2021年4月28日] 如何规范发展中国家的节油行为:来自中国的微观证据'
 subtitle:  '常东风博士，山东大学经济学院副研究员、金融学系主任'
-date: 2021-04-27
-tags: 报告 预告 中文
+date: 2021-04-28
+tags: 报告 往期 中文
 cover: 'assets/img/2021-04-28-changdongfeng/cover.png'
 ---
 
@@ -21,10 +21,5 @@ cover: 'assets/img/2021-04-28-changdongfeng/cover.png'
 常东风，山东大学经济学院副研究员、金融学系主任，兼任中国“双法”研究会能源经济与管理研究分会常务理事，山东省金融学会绿色金融专业委员会委员。博士毕业于加拿大卡尔加里大学经济系，主要研究领域为能源环境经济学、 绿色金融、和可持续发展。在 《Energy Economics》、《Journal of Applied Econometrics》、《Journal of Cleaner Production》等国际权威学术期刊发表十余篇论文，并主持和参加多项国家社科基金项目、国家自科基金项目，以及省级研究课题。
 
 -----------
-##  参与方式
 
- **时间：** 2021年4月28日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-04-28-changdongfeng/link.jpeg)
+<iframe style="width: 100%;height: 500px;" src="//player.bilibili.com/player.html?aid=630393438&bvid=BV1L84y1c7rc&cid=334033195&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
