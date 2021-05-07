@@ -3,7 +3,7 @@ layout: post
 title: '[2021年3月31日] 消费折现率与长期公共政策'
 subtitle:  李青染, 杜克大学环境政策专业博士生
 date: 2021-03-31
-tags: 报告 往期 中文
+tags: 报告 往期 中文 已发表文章 折现率 公共政策 
 cover: 'assets/img/2021-03-31-liqingran/cover.png'
 ---
 
