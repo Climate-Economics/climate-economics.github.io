@@ -13,10 +13,22 @@
     <meta property="og:site_name" content="{{ site.title }}">
     <link rel="stylesheet" href="//cdn.staticfile.org/normalize/6.0.0/normalize.min.css">
     <link rel="stylesheet" href="//at.alicdn.com/t/font_271755_rdxzzo2kqwk.css">
-    <link rel="stylesheet" href="{{ "/assets/css/github-markdown.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/prism.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/share.min.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/app.min.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/github-markdown.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/prism.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/share.min.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/app.min.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
     <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+
+    {% if site.google_analytics %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '{{ site.google_analytics }}');
+    </script>
+    {% endif %}
 </head>
