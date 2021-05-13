@@ -22,5 +22,8 @@
 	{% if site.mathjax %}
 	{% include mathjax.html %}
 	{% endif %}
+    {% if site.google_analytics %}
+    {% include analytics.html %}
+    {% endif %}
     {% include anchor.html %}
 </head>
