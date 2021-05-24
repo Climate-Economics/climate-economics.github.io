@@ -29,10 +29,5 @@ cover: 'assets/img/2021-05-19-zhangyang/cover.png'
 
 
 -----------
-##  参与方式
 
- **时间：** 2021年5月19日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-05-19-zhangyang/link.jpeg)
+<iframe style="width: 100%;height: 500px;" src="//player.bilibili.com/player.html?aid=290661254&bvid=BV1ef4y1Y7Zx&cid=341282248&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
