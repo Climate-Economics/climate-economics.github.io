@@ -2,8 +2,8 @@
 layout: post
 title: '[2021年5月19日] 基于基准值的碳排放责任核算方法'
 subtitle:  '张洋，清华大学建筑节能研究中心博士研究生'
-date: 2021-05-13
-tags: 报告 预告 中文 已发表文章 碳排放 核算方法 
+date: 2021-05-19
+tags: 报告 往期 中文 已发表文章 碳排放 核算方法 
 cover: 'assets/img/2021-05-19-zhangyang/cover.png'
 ---
 
