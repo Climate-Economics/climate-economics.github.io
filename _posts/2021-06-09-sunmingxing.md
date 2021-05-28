@@ -2,7 +2,7 @@
 layout: post
 title: '[2021年6月9日] 降低农村消费碳足迹的不平等性——基于微观调研的分析'
 subtitle:  '孙明星博士，中国科学院地理科学与资源研究所助理研究员'
-date: 2021-05-24
+date: 2021-05-28
 tags: 报告 预告 中文 碳足迹 微观调研 不平等问题
 cover: 'assets/img/2021-06-09-sunmingxing/cover.png'
 ---
