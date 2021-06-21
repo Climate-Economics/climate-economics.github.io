@@ -2,8 +2,8 @@
 layout: post
 title: '[2021年6月9日] 降低农村消费碳足迹的不平等性——基于微观调研的分析'
 subtitle:  '孙明星博士，中国科学院地理科学与资源研究所助理研究员'
-date: 2021-06-03
-tags: 报告 预告 中文 碳足迹 微观调研 不平等问题
+date: 2021-06-09
+tags: 报告 往期 中文 碳足迹 微观调研 不平等问题
 cover: 'assets/img/2021-06-09-sunmingxing/cover.png'
 ---
 
@@ -21,11 +21,3 @@ cover: 'assets/img/2021-06-09-sunmingxing/cover.png'
 孙明星，中国科学院地理科学与资源研究所助理研究员。从事农村可持续消费与生产，可循环生物基产业生态系统转型等方面研究工作，以第一或通讯作者发表学术论文20余篇，目前担任Cleaner and Responsible Consumption（CLRC）
 杂志副主编（Associate Editor)。
 
------------
-##  参与方式
-
- **时间：** 2021年6月9日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-06-09-sunmingxing/link.jpeg)
