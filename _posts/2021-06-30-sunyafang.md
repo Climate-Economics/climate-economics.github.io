@@ -13,7 +13,7 @@ cover: 'assets/img/2021-06-30-sunyafang/cover.png'
 
 本次报告内容全文发表在Annals of Operations Research
 
-Zhang Y.-J., Sun Y.-F., & Huo B.-F. The optimal product pricing and carbon emissions reduction profit allocation of CET-covered enterprises in the cooperative supply chain. *Annals of Operations Research*, Accepted 2021.
+Zhang, YJ., Sun, YF. & Huo, BF. The optimal product pricing and carbon emissions reduction profit allocation of CET-covered enterprises in the cooperative supply chain. Ann Oper Res (2021). [https://doi.org/10.1007/s10479-021-04162-5](https://doi.org/10.1007/s10479-021-04162-5)
 
 
 ----------
