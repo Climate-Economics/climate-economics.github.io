@@ -25,10 +25,5 @@ Zhang, YJ., Sun, YF. & Huo, BF. The optimal product pricing and carbon emissions
 孙亚方博士毕业于湖南大学工商管理学院，新加坡国立大学联合培养博士。主要从事能源经济与政策、低碳供应链等领域的研究工作。目前已完成学术论文10余篇，在Energy Policy, Journal of Cleaner Production, Annals of Operations Research等期刊发表论文多篇。
 
 -----------
-##  参与方式
 
- **时间：** 2021年6月30日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-06-30-sunyafang/link.jpeg)
+<iframe style="width: 100%;height: 500px;" src="//player.bilibili.com/player.html?aid=206425809&bvid=BV1Lh411h7Qg&cid=364401947&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

@@ -2,7 +2,7 @@
 layout: post
 title: '[2021年7月7日] 自然灾害如何影响企业盈余管理?'
 subtitle:  '张慧明博士，南京信息工程大学管理工程学院教授，副院长'
-date: 2021-06-28
+date: 2021-07-07
 tags: 报告 预告 中文 工作论文 自然灾害 盈余管理 
 cover: 'assets/img/2021-07-07-zhanghuiming/cover.png'
 ---
