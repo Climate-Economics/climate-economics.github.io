@@ -3,7 +3,7 @@ layout: post
 title: '[2021年6月30日] 协同减排供应链的最优产品定价与碳减排收益分配研究'
 subtitle:  '孙亚方博士，中国地质大学博士后'
 date: 2021-06-30
-tags: 报告 往期 中文 协同减排 Nash均衡 Stackelberg博弈
+tags: 报告 往期 中文 协同减排 收益分配 Nash均衡 Stackelberg博弈 回看
 cover: 'assets/img/2021-06-30-sunyafang/cover.png'
 ---
 
