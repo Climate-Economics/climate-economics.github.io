@@ -13,7 +13,7 @@ Recent studies have shown that climate change will impose severe challenges on a
 
 本次报告内容全文发表在American Journal of Agricultural Economics
 
-Cui, Xiaomeng, Wei Xie. (2021) “Adapting Agriculture to Climate Change through Growing Season Adjustments: Evidence from Corn in China” *American Journal of Agricultural Economics* (in press) [https://doi.org/10.1111/ajae.12227](https://doi.org/10.1111/ajae.12227)
+Cui, Xiaomeng, Wei Xie. (2021) Adapting Agriculture to Climate Change through Growing Season Adjustments: Evidence from Corn in China *American Journal of Agricultural Economics* (in press) [https://doi.org/10.1111/ajae.12227](https://doi.org/10.1111/ajae.12227)
 
 
 ----------
