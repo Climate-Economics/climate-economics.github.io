@@ -3,7 +3,7 @@ layout: post
 title: '[2021年7月7日] 自然灾害如何影响企业盈余管理?'
 subtitle:  '张慧明博士，南京信息工程大学管理工程学院教授，副院长'
 date: 2021-07-07
-tags: 报告 预告 中文 工作论文 自然灾害 盈余管理 
+tags: 报告 往期 中文 工作论文 自然灾害 盈余管理 回看
 cover: 'assets/img/2021-07-07-zhanghuiming/cover.png'
 ---
 
@@ -24,10 +24,5 @@ We study how firms manage earnings following natural disasters. Our methodology 
 
 
 -----------
-##  参与方式
 
- **时间：** 2021年7月7日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-07-07-zhanghuiming/link.jpeg)
+<iframe style="width: 100%;height: 500px;" src="//player.bilibili.com/player.html?aid=589109411&bvid=BV1hB4y1N7A4&cid=366275689&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
