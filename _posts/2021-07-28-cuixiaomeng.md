@@ -27,7 +27,7 @@ Cui, Xiaomeng, Wei Xie. (2021) “Adapting Agriculture to Climate Change through
 -----------
 ##  参与方式
 
- **时间：** 2021年7月14日晚上8:00（北京时间）
+ **时间：** 2021年7月28日晚上8:00（北京时间）
 
  **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
 
