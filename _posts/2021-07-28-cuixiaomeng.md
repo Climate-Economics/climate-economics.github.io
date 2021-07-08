@@ -3,7 +3,7 @@ layout: post
 title: '[2021年7月28日] 农业通过生长季调整适应气候变化'
 subtitle:  '崔潇濛博士，暨南大学经济与社会研究院（IESR）副教授'
 date: 2021-07-08
-tags: 报告 预告 中文 已发表文章 共享餐具 包装垃圾 零废弃物
+tags: 报告 预告 中文 已发表文章 气候变化适应性 农业 生长季
 cover: 'assets/img/2021-07-28-cuixiaomeng/cover.png'
 ---
 
