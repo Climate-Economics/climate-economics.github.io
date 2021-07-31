@@ -2,8 +2,8 @@
 layout: post
 title: '[2021年7月28日] 农业通过生长季调整适应气候变化'
 subtitle:  '崔潇濛博士，暨南大学经济与社会研究院（IESR）副教授'
-date: 2021-07-25
-tags: 报告 预告 中文 已发表文章 气候变化适应性 农业 生长季
+date: 2021-07-28
+tags: 报告 往期 中文 已发表文章 气候变化适应性 农业 生长季 回看
 cover: 'assets/img/2021-07-28-cuixiaomeng/cover.png'
 ---
 
@@ -25,10 +25,5 @@ Cui, Xiaomeng, Wei Xie. (2021) Adapting Agriculture to Climate Change through Gr
 崔潇濛博士2018年于加州大学戴维斯分校农业与资源经济系获得博士学位。研究领域为环境经济学、农业经济学、资源经济学。研究成果发表于Journal of the Association of Environmental and Resource Economists (JAERE)、Journal of Environmental Economics and Management (JEEM)、 American Journal of Agricultural Economics (AJAE) 等领域内顶尖刊物，主持国家自然科学基金。
 
 -----------
-##  参与方式
 
- **时间：** 2021年7月28日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-07-28-cuixiaomeng/link.jpeg)
+<iframe style="width: 100%;height: 500px;" src="//player.bilibili.com/player.html?aid=419451291&bvid=BV1b341167Bz&cid=378329066&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
