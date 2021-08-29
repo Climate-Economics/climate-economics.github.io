@@ -2,7 +2,7 @@
 layout: post
 title: '[2021年8月25日] 如何申请海外博士'
 subtitle:  '英国篇'
-date: 2021-08-23
+date: 2021-08-25
 tags: 经验分享 预告 英国 留学
 cover: 'assets/img/2021-08-25-liuxueyingguo/cover.png'
 ---
@@ -40,10 +40,3 @@ cover: 'assets/img/2021-08-25-liuxueyingguo/cover.png'
 
 ---------------
 
-##  参与方式
-
- **时间：** 2021年8月25日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-04-28-changdongfeng/link.jpeg)
