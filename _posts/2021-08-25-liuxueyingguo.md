@@ -3,7 +3,7 @@ layout: post
 title: '[2021年8月25日] 如何申请海外博士'
 subtitle:  '英国篇'
 date: 2021-08-25
-tags: 经验分享 预告 英国 留学
+tags: 经验分享 往期 英国 留学
 cover: 'assets/img/2021-08-25-liuxueyingguo/cover.png'
 ---
 
