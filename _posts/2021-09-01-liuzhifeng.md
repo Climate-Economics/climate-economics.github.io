@@ -2,8 +2,8 @@
 layout: post
 title: '[2021年9月1日] 未来全球城市水资源短缺和潜在解决途径'
 subtitle:  '刘志锋博士，北京师范大学 副教授'
-date: 2021-08-29
-tags: 报告 预告 中文 已发表论文 水资源短缺 气候变化 城市化
+date: 2021-09-01
+tags: 报告 往期 中文 已发表论文 水资源短缺 气候变化 城市化
 cover: 'assets/img/2021-09-01-liuzhifeng/cover.png'
 ---
 
@@ -28,10 +28,3 @@ Chunyang He, Zhifeng Liu, Jianguo Wu, Xinhao Pan, Zihang Fang, Jingwei Li, Brett
 
 -----------
 
-##  参与方式
-
- **时间：** 2021年9月1日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-04-28-changdongfeng/link.jpeg)
