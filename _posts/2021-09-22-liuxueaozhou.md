@@ -2,8 +2,8 @@
 layout: post
 title: '[2021年9月22日] 如何申请海外博士'
 subtitle:  '澳洲篇'
-date: 2021-09-19
-tags: 经验分享 预告 澳洲 留学
+date: 2021-09-22
+tags: 经验分享 往期 澳洲 留学 回看
 cover: 'assets/img/2021-08-25-liuxueyingguo/cover.png'
 ---
 
@@ -34,10 +34,4 @@ cover: 'assets/img/2021-08-25-liuxueyingguo/cover.png'
 
 ---------------
 
-##  参与方式
-
- **时间：** 2021年9月22日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-04-28-changdongfeng/link.jpeg)
+<iframe style="width: 100%;height: 500px;" src="//player.bilibili.com/player.html?aid=378175475&bvid=BV1if4y1w7hS&cid=412875370&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
