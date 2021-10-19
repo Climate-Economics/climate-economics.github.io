@@ -2,8 +2,8 @@
 layout: post
 title: '[2021年10月06日] 如何申请海外博士'
 subtitle:  '加拿大篇'
-date: 2021-10-02
-tags: 经验分享 预告 加拿大 留学 
+date: 2021-10-06
+tags: 经验分享 回看 加拿大 留学 往期
 cover: 'assets/img/2021-08-25-liuxueyingguo/cover.png'
 ---
 
@@ -34,10 +34,4 @@ cover: 'assets/img/2021-08-25-liuxueyingguo/cover.png'
 
 ---------------
 
-##  参与方式
-
- **时间：** 2021年10月6日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-04-28-changdongfeng/link.jpeg)
+<iframe style="width: 100%;height: 500px;" src="//player.bilibili.com/player.html?aid=463495077&bvid=BV1rL41137rz&cid=420892980&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
