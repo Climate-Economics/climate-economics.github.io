@@ -3,7 +3,7 @@ layout: post
 title: '[2021年10月27日] The Effective Benchmark Selection Model and Simulation in the Power Sector of China’s ETS'
 subtitle:  '张继宏博士，武汉大学副教授'
 date: 2021-10-18
-tags: 报告 预告 中文 空气污染 投射偏差 购房决策
+tags: 报告 预告 中文 已发表论文 碳市场 
 cover: 'assets/img/2021-10-27-zhangjihong/cover.png'
 ---
 
