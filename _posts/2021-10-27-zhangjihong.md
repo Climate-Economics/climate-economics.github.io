@@ -2,8 +2,8 @@
 layout: post
 title: '[2021年10月27日] The Effective Benchmark Selection Model and Simulation in the Power Sector of China’s ETS'
 subtitle:  '张继宏博士，武汉大学副教授'
-date: 2021-10-18
-tags: 报告 预告 中文 已发表论文 碳市场 
+date: 2021-10-27
+tags: 报告 往期 回看 中文 已发表论文 碳市场 
 cover: 'assets/img/2021-10-27-zhangjihong/cover.png'
 ---
 
@@ -25,10 +25,4 @@ Qi, Shaozhou, Anqi He, and Jihong Zhang. "The Effective Benchmark Selection Mode
 
 -----------
 
-##  参与方式
-
- **时间：** 2021年10月27日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-10-27-zhangjihong/link.jpeg)
+<iframe style="width: 100%;height: 500px;" src="//player.bilibili.com/player.html?aid=633780054&bvid=BV1ob4y1h7hR&cid=431932561&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
