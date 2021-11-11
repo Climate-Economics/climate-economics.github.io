@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[2021年11月7日] 中国外资企业碳排放的追踪与溯源'
+title: '[2021年11月10日] 中国外资企业碳排放的追踪与溯源'
 subtitle:  '闫云凤博士，首都经济贸易大学经济学院副教授'
 date: 2021-11-10
 tags: 报告 往期 中文 外资企业 碳排放 追踪溯源
@@ -22,10 +22,3 @@ cover: 'assets/img/2021-11-10-yanyunfeng/cover.png'
 
 -----------
 
-##  参与方式
-
- **时间：** 2021年4月28日晚上8:00（北京时间）
-
- **腾讯会议ID:** [874 4153 7941](https://meeting.tencent.com/s/UIeb8Y3Vky8l)
-
- ![meeting link](/assets/img/2021-04-28-changdongfeng/link.jpeg)
