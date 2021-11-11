@@ -4,7 +4,7 @@ title: '[2021年11月7日] 中国外资企业碳排放的追踪与溯源'
 subtitle:  '闫云凤博士，首都经济贸易大学经济学院副教授'
 date: 2021-11-10
 tags: 报告 往期 中文 外资企业 碳排放 追踪溯源
-cover: 'assets/img/2021-11-07-yanyunfeng/cover.png'
+cover: 'assets/img/2021-11-10-yanyunfeng/cover.png'
 ---
 
 # 中国外资企业碳排放的追踪与溯源
